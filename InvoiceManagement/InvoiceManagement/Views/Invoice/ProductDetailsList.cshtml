@@ -1,0 +1,28 @@
+﻿@model IEnumerable<InvoiceManagement.Models.ProductDetails>
+
+
+<div>
+    <a asp-action="CreateProductDetails" class="btn btn-info mb-2">Create Product</a>
+</div>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Product Code</th>
+            <th>Product Name</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.ProductCode</td>
+                <td>@p.ProductName</td>
+                <td>
+                    <a asp-route-id="@p.Id" asp-action="EditProductDetails" class="btn btn-warning">Edit</a>
+                    <a asp-route-id="@p.Id" asp-action="DeleteProductDetails" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

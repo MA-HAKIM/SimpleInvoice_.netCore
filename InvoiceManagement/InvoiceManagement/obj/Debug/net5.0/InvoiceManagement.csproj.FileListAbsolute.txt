@@ -1,0 +1,182 @@
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\appsettings.Development.json
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\appsettings.json
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.StaticWebAssets.xml
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.exe
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.deps.json
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.runtimeconfig.json
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.runtimeconfig.dev.json
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\ref\InvoiceManagement.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.pdb
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.Views.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.Views.pdb
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Humanizer.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.AssemblyInfoInputs.cache
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.AssemblyInfo.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.csproj.CoreCompileInputs.cache
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.RazorAssemblyInfo.cache
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.RazorAssemblyInfo.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\staticwebassets\InvoiceManagement.StaticWebAssets.Manifest.cache
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\staticwebassets\InvoiceManagement.StaticWebAssets.xml
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\scopedcss\bundle\InvoiceManagement.styles.css
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.TagHelpers.input.cache
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.TagHelpers.output.cache
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.RazorCoreGenerate.cache
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.RazorTargetAssemblyInfo.cache
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.RazorTargetAssemblyInfo.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.Views.pdb
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.csproj.CopyComplete
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\ref\InvoiceManagement.dll
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.pdb
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.genruntimeconfig.cache
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.csproj.AssemblyReference.cache
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\Index.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\ProductDetailsList.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\CreateProductDetails.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\CreatePurchase.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\PurchaseList.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\Report.cshtml.g.cs
+D:\Reyad's CV\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\DeletePurchase.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\appsettings.Development.json
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\appsettings.json
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.StaticWebAssets.xml
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.exe
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.deps.json
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.runtimeconfig.json
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.runtimeconfig.dev.json
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\ref\InvoiceManagement.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.pdb
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.Views.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\InvoiceManagement.Views.pdb
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Humanizer.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.csproj.AssemblyReference.cache
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.AssemblyInfoInputs.cache
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.AssemblyInfo.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.csproj.CoreCompileInputs.cache
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.RazorAssemblyInfo.cache
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.RazorAssemblyInfo.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\scopedcss\bundle\InvoiceManagement.styles.css
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\staticwebassets\InvoiceManagement.StaticWebAssets.Manifest.cache
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\staticwebassets\InvoiceManagement.StaticWebAssets.xml
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.TagHelpers.input.cache
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.TagHelpers.output.cache
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.RazorCoreGenerate.cache
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\CreateProductDetails.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\CreatePurchase.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\DeletePurchase.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\Index.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\ProductDetailsList.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\PurchaseList.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Invoice\Report.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.RazorTargetAssemblyInfo.cache
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.RazorTargetAssemblyInfo.cs
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.Views.pdb
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.csproj.CopyComplete
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\ref\InvoiceManagement.dll
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.pdb
+D:\Hakim\For Assignment\InvoiceManagement\InvoiceManagement\obj\Debug\net5.0\InvoiceManagement.genruntimeconfig.cache

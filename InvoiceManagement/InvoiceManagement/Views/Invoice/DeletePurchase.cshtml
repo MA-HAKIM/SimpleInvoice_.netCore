@@ -1,0 +1,25 @@
+﻿@model InvoiceManagement.Models.Customer
+
+<div>
+    <h3 class="text-danger">Delete @Model.CustomerName Purchase Details.</h3>
+    <form asp-action="DeletePurchase" method="post">
+        <input type="hidden" asp-for="CustomerId" />
+        <div>
+            Invoice No : @Model.InvoiceNo
+        </div>
+        <div>
+            Customer Name : @Model.CustomerName
+        </div>
+        <div>
+            Address : @Model.Address
+        </div>
+        <div>
+            Phone : @Model.Phone
+        </div>
+
+        <div class="mb-2">
+            <button type="submit" class="btn btn-outline-danger">Delete Customer</button>
+            <a asp-action="PurchaseList" class="btn btn-outline-secondary">Back</a>
+        </div>
+    </form>
+</div>

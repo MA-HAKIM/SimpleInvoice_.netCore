@@ -1,0 +1,83 @@
+﻿@model InvoiceManagement.Models.ProductDetails
+
+<div>
+    <h3>Product Details - @ViewBag.Title</h3>
+</div>
+<form asp-action="CreateProductDetails" asp-controller="Invoice" method="post">
+    @if (Model != null)
+    {
+        <input type="hidden" id="Id" name="Id" value="@Model.Id" />
+    }
+    else
+    {
+        <input type="hidden" asp-for="Id" value="0" />
+    }
+    <div class="form-group row mb-1">
+        <div class="col-md-2">
+            <label asp-for="ProductCode"></label>
+        </div>
+        <div class="col-md-4">
+            <input asp-for="ProductCode" class="form-control" />
+        </div>
+        <div class="col-md-4">
+            @Html.ValidationMessageFor(x => x.ProductCode, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group row mb-1">
+        <div class="col-md-2">
+            <label asp-for="ProductName"></label>
+        </div>
+        <div class="col-md-4">
+            <input asp-for="ProductName" class="form-control" />
+        </div>
+        <div class="col-md-4">
+            @Html.ValidationMessageFor(x => x.ProductName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group row mb-1">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            @if (ViewBag.Title == "Create")
+            {
+                <button type="submit" class="btn btn-success mx-2">Save</button>
+            }
+            @if (ViewBag.Title == "Edit")
+            {
+                <button type="submit" class="btn btn-warning mx-2">Edit</button>
+            }
+            @if (ViewBag.Title == "Delete")
+            {
+                <button type="button" class="btn btn-danger mx-2" onclick="pdetails_delete()">Delete</button>
+            }
+            <a asp-action="ProductDetailsList" class="btn btn-secondary">Back</a>
+        </div>
+
+    </div>
+</form>
+
+@section Scripts{
+    <script>
+        function pdetails_delete() {
+
+        var Id = $("#Id").val();
+
+        $.ajax({
+
+        url: '@Url.Action("DeleteProductDetails", "Invoice")',
+        data: JSON.stringify({ id: Id }),
+        type: 'POST',
+        contentType: 'application/json;',
+        dataType: 'json',
+        success: function (result) {
+            console.log(result);
+            window.location.href = '@Url.Action("ProductDetailsList")';
+            },
+            error: function (ex) {
+                alert(ex.statusText);
+            }
+            
+        });
+        }
+    </script>
+    
+}

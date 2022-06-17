@@ -1,0 +1,227 @@
+﻿@model InvoiceManagement.Models.Customer
+
+<div class="row">
+    <div class="col-md-6">
+        <h4 class="offset-md-2">Customer Information</h4>
+        @if (Model != null)
+        {
+            <input type="hidden" id="CustomerId" name="CustomerId" value="@Model.CustomerId" />
+        }
+        else
+        {
+            <input type="hidden" asp-for="CustomerId" id="CustomerId" name="CustomerId"/>
+        }
+        <form asp-action="CreatePurchase" method="post">
+            <div class="form-group row mb-1">
+                <div class="col-md-3">
+                    <label asp-for="InvoiceNo"></label>
+                </div>
+                <div class="col-md-8">
+                    <input name="InvoiceNo" id="InvoiceNo" class="form-control"/>
+                </div>
+                <div class="col-md-8">
+                    @Html.ValidationMessageFor(x => x.InvoiceNo, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <div class="col-md-3">
+                    <label asp-for="CustomerName"></label>
+                </div>
+                <div class="col-md-8">
+                    <input name="CustomerName" id="CustomerName" class="form-control" />
+                </div>
+                <div class="col-md-8">
+                    @Html.ValidationMessageFor(x => x.CustomerName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <div class="col-md-3">
+                    <label asp-for="Address"></label>
+                </div>
+                <div class="col-md-8">
+                    <input name="Address" id="Address" class="form-control" />
+                </div>
+                <div class="col-md-8">
+                    @Html.ValidationMessageFor(x => x.Address, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <div class="col-md-3">
+                    <label asp-for="Phone"></label>
+                </div>
+                <div class="col-md-8">
+                    <input name="Phone" id="Phone" class="form-control" />
+                </div>
+                <div class="col-md-8">
+                    @Html.ValidationMessageFor(x => x.Phone, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+        </form>
+    </div>
+    <div class="col-md-6">
+        <h4 class="offset-md-2">Product Information</h4>
+        <form asp-action="CreatePurchase" method="post">
+            <div class="form-group row mb-1">
+                <div class="col-md-3">
+                    Prouduct Name
+                </div>
+                <div class="col-md-8">
+                    <select name="ProductName" id="ProductName" asp-items="ViewBag.ProductList" class="form-control">
+                        <option value="" selected>--Select Product--</option>
+                    </select>
+                    <a asp-action="CreateProductDetails" class="btn btn-success" target="_blank">New Product</a>
+                </div>
+
+            </div>
+            <div class="form-group row mb-1">
+                <div class="col-md-3">
+                    Quantity
+                </div>
+                <div class="col-md-8">
+                    <input name="Quantity" id="Quantity" class="form-control" />
+                </div>
+
+            </div>
+            <div class="form-group row mb-1">
+                <div class="col-md-3">
+                    Rate
+                </div>
+                <div class="col-md-8">
+                    <input name="Rate" id="Rate" class="form-control" />
+                </div>
+
+            </div>
+            <input type="hidden" name="TotalAmount" id="TotalAmount" class="form-control" />
+
+
+
+
+            @* for table *@
+            <div>
+                <table class="table table-bordered table-sm" id="producttable">
+                    <thead>
+                        <tr>
+                            <th>Product</th>
+                            <th>Qty</th>
+                            <th>Rate</th>
+                            <th>Amount</th>
+                            <th width="20">
+                                <button id="btnAdd" type="button" class="btn btn-success">Add</button>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="form-group row mb-1">
+                <div class="col-md-3"></div>
+                <div class="col-md-8">
+                    @if (ViewBag.Title == "Create")
+                    {
+                        <button type="button" id="saveProduct" class="btn btn-success mx-2">Save</button>
+                    }
+                    
+                    <a asp-action="ProductDetailsList" class="btn btn-secondary">Back</a>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Styles{
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs5/jq-3.6.0/dt-1.11.4/b-2.2.2/date-1.1.1/fc-4.0.1/fh-3.2.1/r-2.2.9/sc-2.0.5/sb-1.3.1/sl-1.3.4/datatables.min.css" />
+
+}
+@section Scripts{
+    <script type="text/javascript" src="https://cdn.datatables.net/v/bs5/jq-3.6.0/dt-1.11.4/b-2.2.2/date-1.1.1/fc-4.0.1/fh-3.2.1/r-2.2.9/sc-2.0.5/sb-1.3.1/sl-1.3.4/datatables.min.js"></script>
+
+    <script>
+
+
+    $(document).on('click', '#btnAdd', function () {
+
+        var productId = $('#ProductId').val();
+        var productName = $("#ProductName option:selected").text();
+        var qty = $('#Quantity').val();
+        var rate = $('#Rate').val();
+        var amount = $('#Quantity').val() * $('#Rate').val();
+        var cid = $("#CustomerId").val();
+        var html = '<tr><td hidden>' + productId + '</td><td>' + productName + '</td><td>' + qty + '</td><td>' + rate + '</td><td>' + amount + '</td><td hidden>'+ cid +'</td><td><a type="button" class="btn btn-outline-danger btn-sm remove">Remove</a></td></tr>';
+        $('#producttable tbody').append(html);
+
+    });
+    $('table').on('click', 'tr a.remove', function (e) {
+        e.preventDefault();
+        $(this).closest('tr').remove();
+    });
+
+    $("#saveProduct").click(function (e) {
+        e.preventDefault();
+        var Customer = { CustomerId: "", InvoiceNo: "", CustomerName: "", Address: "", Phone: "", Products: [] }
+        Customer.CustomerId = $("#CustomerId").val();
+        Customer.InvoiceNo = $("#InvoiceNo").val();
+        Customer.CustomerName = $("#CustomerName").val();
+        Customer.Address = $("#Address").val();
+        Customer.Phone = $("#Phone").val();
+        //In ProductDistribute table
+        var Products = [];
+
+        $.each($("#producttable tbody tr"), function () {
+            Customer.Products.push({
+                ProductId: $(this).find('td:eq(0)').html(),
+                ProductName: $(this).find('td:eq(1)').html(),
+                Quantity: $(this).find('td:eq(2)').html(),
+                Rate: $(this).find('td:eq(3)').html(),
+                TotalAmount: $(this).find('td:eq(4)').html(),
+                CustomerId: $(this).find('td:eq(5)').html()
+            });
+        });
+
+
+        console.log(Customer);
+
+        $.ajax({
+
+                  url: '@Url.Action("CreatePurchase", "Invoice")',
+
+                  data: { c: Customer },//use id here
+                  //data: JSON.stringify(salesmain),
+                  type: 'POST',
+
+                  dataType: 'json',
+                  success: function () {
+
+
+                      window.location.href = '@Url.Action("PurchaseList", "Invoice")';
+
+                  },
+
+                  error: function () {
+                      console.log("Error in the request");
+                  }
+
+              })
+    });
+
+    //function saveProduct(product) {
+    //    return $.ajax({
+    //        contentType: 'application/json; charset=utf-8',
+    //        dataType: 'json',
+    //        type: 'POST',
+    //        url: "/Invoice/CreatePurchase",
+    //        data: product,
+    //        success: function (result) {
+    //            alert(result);
+    //            location.reload();
+    //        },
+    //        error: function () {
+    //            alert("Error!")
+    //        }
+    //    });
+    //}
+    </script>
+}

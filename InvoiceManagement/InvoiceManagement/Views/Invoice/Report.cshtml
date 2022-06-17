@@ -1,0 +1,65 @@
+﻿@model InvoiceManagement.Models.Customer
+
+
+
+<div class="card w-75">
+    <h3 class="card-header">@Model.CustomerName - Purchase Details</h3>
+
+    <div class="card-body">
+        <h5 class="row">
+            <span class="col-md-3">Invoice No :</span>
+            @Model.InvoiceNo
+        </h5>
+        <h5 class="row">
+            <span class="col-md-3">Address :</span>
+            @Model.Address
+        </h5>
+        <h5 class="row">
+            <span class="col-md-3">Phone :</span>
+            @Model.Phone
+        </h5>
+
+        <div class="my-3">
+            <table class="table table-bordered table-striped">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Purchase Data</th>
+                        <th>Product Name</th>
+                        <th>Quantity</th>
+                        <th>Rate</th>
+                        <th>Amount</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var p in Model.Products)
+                    {
+                        <tr>
+                            <td>@p.PurchaseDate</td>
+                            <td>@p.ProductName</td>
+                            <td>@p.Quantity</td>
+                            <td>@p.Rate</td>
+                            <td>@p.TotalAmount</td>
+                        </tr>
+                        
+                    }
+
+                </tbody>
+                
+                
+            </table>
+        </div>
+
+    </div>
+
+    <div class="card-footer">
+        <div class="d-flex justify-content-end">Total Amount : @Model.Products.Sum(x => x.TotalAmount) TK</div>
+    </div>
+</div>
+
+@section Styles{ 
+    <style>
+        .gap{
+            margin-right:20px;
+        }
+    </style>
+}
